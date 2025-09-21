@@ -1,1 +1,1 @@
-# lendo-task
+# Frontend-assessment-task
